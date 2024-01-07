@@ -1,4 +1,4 @@
-# 🍕🍷 Aluroni 3 Rotas
+# 🥖🍕🍷 Aluroni 3 Rotas
 
 Projeto do curso <a href="https://cursos.alura.com.br/course/react-biblioteca-react-router"> React: otimizando a performance</a>, curso ministrado pelo instrutor <a href="https://www.linkedin.com/in/lfrprazeres/">Luiz Fernando Ribeiro</a>.
 
