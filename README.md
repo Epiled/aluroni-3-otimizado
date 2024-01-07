@@ -1,10 +1,10 @@
-# 🍕🍷 Aluroni 2 Rotas
+# 🍕🍷 Aluroni 3 Rotas
 
-Projeto do curso <a href="https://cursos.alura.com.br/course/react-biblioteca-react-router">React: conhecendo a biblioteca React Router</a> da Alura, curso ministrado pelo instrutor <a href="https://www.linkedin.com/in/lfrprazeres/">Luiz Fernando Ribeiro</a>.
+Projeto do curso <a href="https://cursos.alura.com.br/course/react-biblioteca-react-router"> React: otimizando a performance</a>, curso ministrado pelo instrutor <a href="https://www.linkedin.com/in/lfrprazeres/">Luiz Fernando Ribeiro</a>.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Aluroni 2 Rotas**
+| :sparkles: Nome        | **Aluroni 3 Rotas**
 | :label: Tecnologias | html, css, js, sass, css modules, node, typescript, react
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
@@ -12,9 +12,9 @@ Projeto do curso <a href="https://cursos.alura.com.br/course/react-biblioteca-re
 
 <h2 id="detalhes-do-projeto"> 📃 Detalhes do projeto </h2>
 
-Neste projeto, foram desenvolvidas diversas páginas para o restaurante Aluroni, incluindo um cardápio detalhado com informações sobre seus pratos, além de filtros de busca e ordenação. Também foi implementada uma lógica para exibir uma página de erro caso o usuário acesse uma URL que não exista.
+Neste projeto, foram otimizadas diversas páginas para o restaurante Aluroni, utilizando de hooks como useMemo e imagens em Webp.
 
-Um ESLint foi configurado para garantir o padrão e a qualidade do código.
+Um componente de Suspense foi adicionado para melhorar a UX do site.
 
 O código foi desenvolvido em React com TypeScript e estilizado usando CSS Modules e Sass.
 
@@ -55,12 +55,11 @@ O código foi desenvolvido em React com TypeScript e estilizado usando CSS Modul
 <h2 id="topicos-curso"> 👩‍🏫 Tópicos desenvolvidos</h2>
 
 <!--ts-->
-* Saiba como refatorar um projeto utilizando ESLint
-* Desenvolva um código escalável, priorizando um código limpo e fácil de entender
-* Utilize o pacote react-router-dom de forma simples e prática, aprendendo todos os conceitos principais da biblioteca
-* Descubra como a biblioteca se integra com o navegador e utiliza de coisas nativas para mudar as rotas e compartilhar estados
-* Crie telas navegando entre elas de diversas formas diferentes e reaproveite componentes eles elas
-* Entenda sobre nested routes e como criá-las para reaproveitar código e resolver problemas
+* Saiba como analisar componentes e páginas que podem ser mais performáticas
+* Conheça a fundo como o React renderiza seus componentes, também termos como Virtual DOM e Reconciliation.
+* Aprenda como memoização e imutabilidade se complementam e porque eles são tão importantes no universo React
+* Entenda diferenças entre memo e useMemo e quando utilizar cada um deles
+* Utilize a extensão React Devtools de forma prática para analisar tempos de renderização de componentes e o motivo dos componentes estarem atualizando
 <!--te-->
 
 <h2 id="demonstracao"> 👀 Demonstração </h2>
