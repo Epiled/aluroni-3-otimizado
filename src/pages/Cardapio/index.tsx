@@ -10,7 +10,7 @@ export default function Cardapio() {
   const [busca, setBusca] = useState('');
   const [filtro, setFiltro] = useState<number | null>(null);
   const [ordenador, setOrdenador] = useState('');
-  let teste = 'Olá Aluno!';
+  //let teste = 'Olá Aluno!';
   return (
     <section className={styles.cardapio}>
       {/* <h1 onClick={() => {
