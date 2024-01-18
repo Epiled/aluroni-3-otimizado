@@ -13,10 +13,10 @@ export default function Cardapio() {
   let teste = 'Olá Aluno!';
   return (
     <section className={styles.cardapio}>
-      <h1 onClick={() => {
+      {/* <h1 onClick={() => {
         teste = 'Hello World';
         console.log(teste);
-      }}>{teste}</h1>
+      }}>{teste}</h1> */}
       <h3 className={stylesTema.titulo}>Cardápio</h3>
       <Buscador busca={busca} setBusca={setBusca} />
       <div className={styles.cardapio__filtros}>
