@@ -102,8 +102,8 @@ https://github.com/Epiled/aluroni-2-router/assets/55258483/a74bbc06-a447-4f2e-81
 <h2 id="instalacao"> ⚙ Instalação </h2>
 
 ```
-1. git clone https://github.com/Epiled/aluroni-2-router.git
-2. cd aluroni-2-router
+1. git clone https://github.com/Epiled/aluroni-3-otimizado.git
+2. cd aluroni-3-otimizado
 3. npm install
 ```
 
