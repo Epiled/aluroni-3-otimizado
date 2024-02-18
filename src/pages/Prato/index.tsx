@@ -10,7 +10,6 @@ const TagsPrato = lazy(() => import('components/TagsPrato'));
 const NotFound = lazy(() => import('pages/NotFound'));
 const PaginaPadrao = lazy(() => import('components/PaginaPadrao'));
 
-
 export default function Prato() {
   const { id } = useParams();
   const navigate = useNavigate();
